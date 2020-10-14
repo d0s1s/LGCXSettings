@@ -1,0 +1,2 @@
+# LGCXSettings
+Ajustes LG CX
