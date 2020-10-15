@@ -1,0 +1,81 @@
+General SDR
+-----------
+Modo Imagen ISF Expert Brillo
+Luz OLED    70 / Ahorro de Energía*
+Contraste   85
+Brillo      50
+Nitidez     10
+Color       50
+Tinte        0
+
+* Ahorro Energía aparece si se configura en Auto --> el sensor ambiental aumenta la luz Oled (No pasaría de 70) o la disminuye según las condiciones.
+
+Controles avanzados
+-------------------
+Contraste Dinámico Apagado
+Super Resolución   Apagado
+Rango Color        Auto
+Gamma              2.2 (Para un entorno muy oscuro sería BT.1186)
+
+Balance de Blancos
+------------------
+Temperatura Color Cálido 2
+Método 2 Puntos (IRE de 10 puntos y de 20 puntos, no tocar)*
+Punto Alto Rojo 4 Verde 0 Azul -6
+Punto Bajo Rojo 5 Verde 0 Azul 4
+Aplicar a todas las entradas
+
+* El método de 2 puntos es individual entre unidades --> si se nota demasiado rojo, verde o azul en diferentes areas, restablecerlas de fábrica.
+* No obstante, es de preveer que estos settings mejoran los valores de fábrica.
+
+Colores
+-------
+Dejarlo todo a 0 (Por defecto)
+
+Brillo Máximo
+-------------
+Apagado
+
+Opciones de imagen
+------------------
+Reducción Ruido       Apagado
+MPEG Reducción Ruido  Apagado
+Gradación Suave       Baja
+Nivel Negro           Auto
+Cine Real             Encendido
+Protección visión     Apagado
+TruMotion             Usuario (De Judder 0, De Blur 10) / Claridad cinematográfica / Apagado *
+OLED Motion Pro (BFI) Low / Apagado (Si apagado, poner luz Oled a 60 y no a 70).
+
+* Recomendado usuario con BFI a Low (Oscurece un poco la pantalla pero más detalles serán visibles en contenidos como deporte).
+* Claridad cinematográfica intenta recrear la intención del director sin introducir SOAP.
+
+Formato
+-------
+Relación Aspecto Original ó 16:9
+Sólo Escaneo     Encendido
+
+Ahorro de energía
+-----------------
+Apagado o Auto (Sensor ambiental para luz Oled)
+
+Adicionales
+-----------
+Confort visual        Apagado
+HDMI Ultra HD Deep    Encendido para obtener chroma 4:4:4
+Respuesta Instantánea Activa e modo automático de latencia para las entradas HDMI (Útil para juegos)
+AMD FreeSync Prem     Útil para juegos si la entreda HDMI soporta esta tecnología.
+Auto Film Maker Mode  Apagado
+
+Protección OLED
+---------------
+Cambio Pantalla  Encendido
+Luminosidad logo Alta ó Baja (Si principal uso es Gaming)
+
+General
+-------
+AI Imagen PRO Encendido utiliza el AI para mejorar la nitidez de rostros y letras.
+AI Brillo     Apagado --> este valor ajusta la gamma atendiendo al sensor ambiental.
+
+Es recomendable verificar los valores de contraste y brillo con patrones.
+En OLED si se incrementa el brillo más de 52, los negros no serán perfectos.
