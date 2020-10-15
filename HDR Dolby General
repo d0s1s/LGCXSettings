@@ -12,6 +12,7 @@ Controles avanzados
 -------------------
 Contraste Dinámico Apagado
 Super Resolución   Apagado
+Mapa de tonos      Encendido
 Rango Color        Auto
 Gamma              2.2
 
@@ -80,10 +81,8 @@ General
 AI Imagen PRO Encendido utiliza el AI para mejorar la nitidez de rostros y letras.
 AI Brillo     Apagado --> este valor ajusta la gamma atendiendo al sensor ambiental --> Dolby Vision IQ.
 
-Es recomendable verificar los valores de contraste y brillo con patrones.
-En OLED si se incrementa el brillo más de 52, los negros no serán perfectos.
-
 General Dolby Vision
 --------------------
 
 Modo cine con los valores de HDR o Modo cine en casa (Dolby IQ) con los valores de HDR.
+Debido a algunos problemas con el levantamiento de negros es recomendable bajar el brillo a 49 en vez de 50.
