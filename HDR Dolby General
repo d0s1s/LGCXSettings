@@ -83,6 +83,5 @@ AI Brillo     Apagado --> este valor ajusta la gamma atendiendo al sensor ambien
 
 General Dolby Vision
 --------------------
-
 Modo cine con los valores de HDR o Modo cine en casa (Dolby IQ) con los valores de HDR.
 Debido a algunos problemas con el levantamiento de negros es recomendable bajar el brillo a 49 en vez de 50.
