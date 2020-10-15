@@ -1,0 +1,78 @@
+General Gaming
+-----------
+Modo Imagen Juego
+Luz OLED    60 / Ahorro de Energía*
+Contraste   85
+Brillo      50
+Nitidez     10
+Color       50
+Tinte        0
+
+* Ahorro Energía aparece si se configura en Auto --> el sensor ambiental aumenta la luz Oled (No pasaría de 70) o la disminuye según las condiciones.
+
+Controles avanzados
+-------------------
+Contraste Dinámico Apagado
+Super Resolución   Apagado
+Rango Color        Auto
+Gamma              2.2 (Para un entorno muy oscuro sería BT.1186).
+
+Balance de Blancos
+------------------
+Temperatura Color Cálido 2
+Método 2 Puntos (IRE de 10 puntos y de 20 puntos, no tocar)*
+Punto Alto Rojo 4 Verde 0 Azul -6
+Punto Bajo Rojo 5 Verde 0 Azul 4
+Aplicar a todas las entradas
+
+* El método de 2 puntos es individual entre unidades --> si se nota demasiado rojo, verde o azul en diferentes areas, restablecerlas de fábrica.
+* No obstante, es de preveer que estos settings mejoran los valores de fábrica.
+
+Colores
+-------
+Dejarlo todo a 0 (Por defecto).
+
+Brillo Máximo
+-------------
+Deshabilitado en este modo.
+
+Opciones de imagen
+------------------
+Reducción Ruido       Apagado
+MPEG Reducción Ruido  Apagado
+Gradación Suave       Baja
+Nivel Negro           Auto
+Cine Real             Deshabilitado en este modo.
+Protección visión     Apagado
+TruMotion             Deshabilitado en este modo por el aumento del Input Lag.
+OLED Motion Pro (BFI) Apagado / Low - Medium (Black Frame Insertion - Baja el brillo pero subiendo la luz Oled a 70 se puede compensar).
+
+Formato
+-------
+Relación Aspecto Original ó 16:9
+Sólo Escaneo     Encendido
+
+Ahorro de energía
+-----------------
+Apagado o Auto (Sensor ambiental para luz Oled).
+
+Adicionales
+-----------
+Confort visual        Apagado
+HDMI Ultra HD Deep    Encendido para obtener chroma 4:4:4
+Respuesta Instantánea Activa e modo automático de latencia para las entradas HDMI (Útil para juegos).
+AMD FreeSync Prem     Útil para juegos si la entreda HDMI soporta esta tecnología.
+Auto Film Maker Mode  Apagado
+
+Protección OLED
+---------------
+Cambio Pantalla  Encendido
+Luminosidad logo Alta ó Baja (Si principal uso es Gaming).
+
+General
+-------
+AI Imagen PRO Deshabilitado en este modo.
+AI Brillo     Apagado --> este valor ajusta la gamma atendiendo al sensor ambiental.
+
+Es recomendable verificar los valores de contraste y brillo con patrones.
+En OLED si se incrementa el brillo más de 52, los negros no serán perfectos.
